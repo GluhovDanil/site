@@ -1,0 +1,26 @@
+ 		.Mine_text {
+   		font-family: 'Amatic SC', cursive;
+   			flex: 1 1 auto;
+   			width: 100%;
+   			max-width: 1000px;
+   			margin: 100px auto;
+   			color: white;
+   			text-align: center;
+   			font-size: 100px;
+   			text-shadow: 3px 4px 4px black , 0 0 1em black;
+   			position: absolute; top: 100px;
+   		}
+
+		.Logotip {
+   		    font-family: 'Amatic SC', cursive;
+   			flex: 1 1 auto;
+   			width: 100%;
+   			max-width: 100000px;
+   			color: white;
+   			text-align: center;
+   			font-size: 100px;
+   			text-shadow: 3px 4px 4px black , 0 0 1em black;
+   			position: absolute; bottom: 500px;
+   				}
+
+
