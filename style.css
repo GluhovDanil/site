@@ -21,15 +21,52 @@
    			text-align: center;
    			font-size: 150px;
    			text-shadow: 3px 4px 4px black , 0 0 1em black;
-   			position: absolute; bottom: 460px;
+   			position: absolute; bottom: 490px;
             position: absolute; left: 180px;
    				}
 
-      .PromRobo {
-            position: absolute; top: 500px;
-                }
+    .PromRobo {
+            position: absolute; top: 650px;
+            position: absolute; left: 100px;
 
-      .PromRobo2 {
-            position: absolute; top: 700px;
-            position: absolute; left: 240px;
-      }
+              }
+
+    .Aero {
+    		position: absolute; top: 650px;
+    		position: absolute; left: 610px;
+  		  }
+
+    .Nano {
+    		position: absolute; top: 650px;
+    		position: absolute; right: 100px;
+    	  }
+
+    .Bio {
+    		position: absolute; top: 900px;
+    		position: absolute; left: 100px;
+    	 }		
+
+   	.PromDesing {
+   			position: absolute; top: 900px;
+   			position: absolute; left: 610px;
+   				}
+
+   	.Kosmo {
+   			position: absolute; top: 900px;
+   			position: absolute; right: 100px
+   		   }
+
+    .HiTech {
+    		position: absolute; top: 1150px;
+    		position: absolute; left: 100px;
+    		}
+
+    .IT {
+    	position: absolute; top: 1150px;
+    	position: absolute; left: 610px;
+    	} 
+
+    .Energy	{
+			position: absolute; top: 1150px;
+			position: absolute; right: 100px;    		
+    		}
