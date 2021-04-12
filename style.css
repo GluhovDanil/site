@@ -80,8 +80,64 @@
       position: absolute; left: 325px;       
          }
 
-    .Deti1 {
-      position: absolute; top: 1800px;
+    .text6143 {
+      position: absolute; top: 1670px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 150px;
+      position: absolute;left: 150px;
+              }
+
+    .textDeti {
+      position: absolute; top: 1830px;
       font-family: 'Amatic SC', cursive;
       font-size: 50px;
-    }
+      position: absolute;left: 30px;
+              }
+
+    .textFotonika {
+      position: absolute; top: 1880px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 50px;
+      position: absolute; left: 60px; 
+                  }
+
+      .text11 {
+      position: absolute; top: 1670px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 150px;
+      position: absolute; left: 700px; 
+                  }
+
+      .textNapr {
+      position: absolute; top: 1830px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 50px;
+      position: absolute; left: 580px; 
+                  }
+
+
+
+    .sas123 {
+      position: absolute; top: 3000px;
+                  } 
+
+    .text14350 {
+      position: absolute; top: 1670px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 150px;
+      position: absolute; left: 1060px; 
+              }
+
+    .textYCH {
+      position: absolute; top: 1830px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 45px;
+      position: absolute; left: 1010px; 
+              }
+
+    .textFotonika2 {
+      position: absolute; top: 1880px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 45px;
+      position: absolute; left: 1010px; 
+              }   
