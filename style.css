@@ -21,7 +21,7 @@
    			text-align: center;
    			font-size: 150px;
    			text-shadow: 3px 4px 4px black , 0 0 1em black;
-   			position: absolute; bottom: 480px;
+   			position: absolute; bottom: 450px;
             position: absolute; left: 180px;
    				}
 
@@ -71,12 +71,12 @@
     		    }
 
     .VR  {
-      position: absolute; top: 1400px;
+      position: absolute; top: 1350px;
       position: absolute; right: 325px;       
          }
 
     .Photonika  {
-      position: absolute; top: 1400px;
+      position: absolute; top: 1350px;
       position: absolute; left: 325px;       
          }
 
@@ -140,4 +140,81 @@
       font-family: 'Amatic SC', cursive;
       font-size: 45px;
       position: absolute; left: 1010px; 
-              }   
+              }
+
+    .textPromrobo {
+      position: absolute; top: 800px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 40px;
+      position: absolute; left: 75px;
+                  }  
+
+    .textAero {
+      position: absolute; top: 800px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 40px;
+      position: absolute; left: 615px;
+              }
+
+      .textNano {
+      position: absolute; top: 800px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 40px;
+      position: absolute; left: 1105px;
+              }
+
+      .textHiTech {
+      position: absolute; top: 1300px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 40px;
+      position: absolute; left: 90px;
+              }
+
+      .textBio {
+      position: absolute; top: 1040px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 40px;
+      position: absolute; left: 105px;
+              }
+
+      .textPromDesing {
+      position: absolute; top: 1040px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 40px;
+      position: absolute; left:550px;
+              }
+
+      .textKosmo {
+      position: absolute; top: 1040px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 40px;
+      position: absolute; left: 1090px;
+              }
+
+      .textIT {
+      position: absolute; top: 1300px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 40px;
+      position: absolute; left: 620px;
+              }
+
+      .textEnergy {
+      position: absolute; top: 1300px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 40px;
+      position: absolute; left: 1080px;
+              }
+
+      .textFotonika3 {
+      position: absolute; top: 1500px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 40px;
+      position: absolute; left: 300px;
+              }
+
+      .textVr {
+      position: absolute; top: 1500px;
+      font-family: 'Amatic SC', cursive;
+      font-size: 40px;
+      position: absolute; left: 920px;
+              }
