@@ -118,7 +118,7 @@
 
 
     .sas123 {
-      position: absolute; top: 3000px;
+      position: absolute; top: 4000px;
                   } 
 
     .text14350 {
@@ -218,3 +218,73 @@
       font-size: 40px;
       position: absolute; left: 920px;
               }
+
+      .Telefon {
+      	position: absolute; top:2900px;
+      	font-family: 'Amatic SC', cursive;
+     	font-size: 50px;
+     	position: absolute; left: 60px;
+      }
+
+      .Tel342 {
+      	position: absolute; top: 2980px;
+      	font-family: 'Amatic SC', cursive;
+     	font-size: 30px;
+     	position: absolute; left: 60px;
+      }
+
+      .Pochta {
+      	position: absolute; top: 2900px;
+      	font-family: 'Amatic SC', cursive;
+     	font-size: 50px;
+     	position: absolute; left: 335px;
+      }
+
+      .PochtaKvant {
+      	position: absolute; top: 2980px;
+      	font-family: 'Amatic SC', cursive;
+     	font-size: 30px;
+     	position: absolute; left: 300px;
+      }
+
+      .Map {
+      	position: absolute; top: 2900px;
+      	font-family: 'Amatic SC', cursive;
+     	font-size: 50px;
+     	position: absolute; left: 630px;
+      }
+
+      .Perm {
+      	position: absolute; top: 2980px;
+      	font-family: 'Amatic SC', cursive;
+     	font-size: 30px;
+     	position: absolute; left: 610px;
+      }
+
+      .N64 {
+      	position: absolute; top: 3020px;
+      	font-family: 'Amatic SC', cursive;
+     	font-size: 30px;
+     	position: absolute; left: 680px;
+      }
+
+      .Open {
+      	position: absolute; top: 2900px;
+      	font-family: 'Amatic SC', cursive;
+     	font-size: 50px;
+     	position: absolute; left: 860px;
+      }
+
+      .Time {
+      	position: absolute; top: 2980px;
+      	font-family: 'Amatic SC', cursive;
+     	font-size: 30px;
+     	position: absolute; left: 850px;
+      }
+
+       .Soc {
+      	position: absolute; top: 2900px;
+      	font-family: 'Amatic SC', cursive;
+     	font-size: 50px;
+     	position: absolute; left: 1100px;
+      }
