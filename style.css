@@ -21,7 +21,7 @@
    			text-align: center;
    			font-size: 150px;
    			text-shadow: 3px 4px 4px black , 0 0 1em black;
-   			position: absolute; bottom: 450px;
+   			position: absolute; bottom: 500px;
             position: absolute; left: 180px;
    				}
 
@@ -334,4 +334,36 @@
      		font-size: 40px;
  			text-align: center;
  			position: absolute; left: 850px;
+      	}
+ 
+      	.razvitie_detei {
+      		position: absolute; top: 2475px;
+      		font-family: 'Amatic SC', cursive;
+     		font-size: 40px;
+ 			text-align: center;
+ 			position: absolute; left: 770px;
+      	}
+
+      	.prostranstvo_smelosti {
+      		position: absolute; top: 2530px;
+      		font-family: 'Amatic SC', cursive;
+     		font-size: 40px;
+ 			text-align: center;
+ 			position: absolute; left: 770px;
+      	}
+
+      	.yslovia_formirovania {
+      		position: absolute; top: 2585px;
+      		font-family: 'Amatic SC', cursive;
+     		font-size: 40px;
+ 			text-align: center;
+ 			position: absolute; left: 770px;
+      	}
+
+      	.Operehzenie_techtologiy {
+      		position: absolute; top: 2695px;
+      		font-family: 'Amatic SC', cursive;
+     		font-size: 40px;
+ 			text-align: center;
+ 			position: absolute; left: 770px;
       	}
